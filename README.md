@@ -1,1 +1,2 @@
-# abbyrchen.github.io
+# my personal website
+hi, my name is abby and this is my personal website! it contains my biography, work experience, projects, and some hobbies that i have. not only is it a resume/portfolio, but also a visually appealing way for viewers to get to know me! i hope you get a good idea of who i am and have a great experience on the website. it is always changing and improving as i continue to learn more about front-end coding;; excited for the final product!
